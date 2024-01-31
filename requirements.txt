@@ -5,3 +5,8 @@ python-dotenv
 faiss-cpu 
 openai 
 huggingface_hub
+text_splitter
+requests
+pandas
+pydantic
+fastapi
