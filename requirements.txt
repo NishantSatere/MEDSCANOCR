@@ -5,8 +5,14 @@ python-dotenv
 faiss-cpu 
 openai 
 huggingface_hub
+<<<<<<< HEAD
 text_splitter
 requests
 pandas
 pydantic
 fastapi
+=======
+re
+json
+pytesseract
+>>>>>>> a4f3552df95261ed1259fd4ff481ff2d77ec26ce
