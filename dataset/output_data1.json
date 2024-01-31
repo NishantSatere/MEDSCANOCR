@@ -1,0 +1,48 @@
+{
+  "Name": "Mr. DAVINDER BHASIN ",
+  "Lab No": "187573123",
+  "Age": "56 Years",
+  "Gender":"Male",
+  "Test Results": [
+    {
+      "Test Name": "Hemoglobin",
+      "Result": "15.40"
+    },
+    {
+      "Test Name": "NCH",
+      "Result": "27.50"
+    },
+    {
+      "Test Name": "Total Leukocyte Count (TLC)",
+      "Result": "77"
+    },
+    {
+      "Test Name": "Segmented Neutrophils",
+      "Result": "6270"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "2680"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "670"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "290"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "207"
+    },
+    {
+      "Test Name": "Platelet Count",
+      "Result": "2730"
+    },
+    {
+      "Test Name": "Mean Platelet Volume",
+      "Result": "106"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "Mr. JAPJEET",
+  "Lab No": "283280070",
+  "Age": "17 Years" ,
+  "Gender": "Male",
+  "Test Results": [
+    {
+      "Test Name": "Hemoglobin",
+      "Result": "16.20"
+    },
+    {
+      "Test Name": "Packed Cell Volume (PCV)",
+      "Result": "48.70"
+    },
+    {
+      "Test Name": "Total Leukocyte Count (TLC)",
+      "Result": "5.10"
+    },
+    {
+      "Test Name": "Segmented Neutrophils",
+      "Result": "52.50"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "3220"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "10.00"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "4.90"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "151"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "025"
+    },
+    {
+      "Test Name": "Platelet Count",
+      "Result": "189.0"
+    }
+  ]
+}

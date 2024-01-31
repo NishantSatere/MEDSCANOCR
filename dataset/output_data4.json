@@ -1,0 +1,54 @@
+{
+  "Name": "Mr. DAVINDER Collected +: 30/6/2020",
+  "Lab No": "283280071", 
+  "Age": "50 Years", 
+  "Gender": "Male",
+  "Reported": "30/6/2020 6:36:27PM",
+  "Report Status": "Final",
+  "Test Results": [
+    {
+      "Test Name": "Hemoglobin",
+      "Result": "16.00"
+    },
+    {
+      "Test Name": "Packed Cell Volume (PCV)",
+      "Result": "44.90"
+    },
+    {
+      "Test Name": "Total Leukocyte Count (TLC)",
+      "Result": "5.95"
+    },
+    {
+      "Test Name": "Segmented Neutrophils",
+      "Result": "52.00"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "36.10"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "8.90"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "2.00"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "2.45"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "05"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "12"
+    },
+    {
+      "Test Name": "Platelet Count",
+      "Result": "135.0"
+    }
+  ]
+}

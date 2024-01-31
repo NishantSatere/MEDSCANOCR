@@ -1,0 +1,36 @@
+{
+  "Name": "Results Units Bio. Ret. Interval",
+  "Lab No": "283280068" ,
+  "Age": "50 Years" ,
+  "Gender": "Male" ,
+  "Test Results": [
+    {
+      "Test Name": "Hemoglobin",
+      "Result": "1420"
+    },
+    {
+      "Test Name": "Packed Cell Volume (PCV)",
+      "Result": "41.80"
+    },
+    {
+      "Test Name": "Segmented Neutrophils",
+      "Result": "47.90"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "39.90"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "9.30"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "230"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "1.88"
+    }
+  ]
+}

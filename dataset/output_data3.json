@@ -1,0 +1,51 @@
+{
+  "Name": "Mr. PREET SINGH" ,
+  "Collected": "20/12/2021 8:39:00AM",
+  "Lab No": "157573126",
+  "Age": "29 Years",
+  "Gender": "Male", 
+  "Reported": "24/12/2021 7:22:55PM",
+  "Report Status": "Final",
+  "Test Results": [
+    {
+      "Test Name": "Hemoglobin",
+      "Result": "15.60"
+    },
+    {
+      "Test Name": "Packed Cell Volume (PCV)",
+      "Result": "46.90"
+    },
+    {
+      "Test Name": "Total Leukocyte Count (TLC)",
+      "Result": "5.43"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "31.90"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "7.20"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "2.80"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "173"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "39"
+    },
+    {
+      "Test Name": "Platelet Count",
+      "Result": "203.0"
+    },
+    {
+      "Test Name": "Mean Platelet Volume",
+      "Result": "105"
+    }
+  ]
+}
