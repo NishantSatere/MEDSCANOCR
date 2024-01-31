@@ -1,10 +1,16 @@
-.st-emotion-cache-nahz7x {
-    font-size: 403px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.st-emotion-cache-q8sbsg {
+    body {
+        font-family: sans-serif;
+        line-height: 1.5
+    }
 }
 
 .st-emotion-cache-nahz7x {
+    padding: 3px;
+    font-size: 10%;
+}
 
-    font-size: 403px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+h1 {
+    /* background-color: aquamarine; */
+    font-size: 30px;
 }
