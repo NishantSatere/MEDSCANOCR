@@ -1,0 +1,48 @@
+{
+  "Name": "Mr. DAVINDER SINGH Collected",
+  "Lab No": "327969412", 
+  "Age": "84 Years" ,
+  "Gender": "Male",
+  "Test Results": [
+    {
+      "Test Name": "Hemoglobin",
+      "Result": "15.00"
+    },
+    {
+      "Test Name": "Packed Cell Volume (PCV)",
+      "Result": "4720"
+    },
+    {
+      "Test Name": "Total Leukocyte Count (TLC)",
+      "Result": "734"
+    },
+    {
+      "Test Name": "Segmented Neutrophils",
+      "Result": "62.50"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "28.20"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "6.10"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "2.50"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "207"
+    },
+    {
+      "Test Name": "Platelet Count",
+      "Result": "1580"
+    },
+    {
+      "Test Name": "Mean Platelet Volume",
+      "Result": "118"
+    }
+  ]
+}

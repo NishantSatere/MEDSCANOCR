@@ -1,0 +1,44 @@
+{
+  "Name": "Mr. JAPJI SINGH",
+  "Lab No": "157873124",
+  "Age": "18 Years",
+  "Gender": "Male",
+  "Test Results": [
+    {
+      "Test Name": "Hemoglobin",
+      "Result": "16.00"
+    },
+    {
+      "Test Name": "Packed Cell Volume (PCV)",
+      "Result": "49.90"
+    },
+    {
+      "Test Name": "Segmented Neutrophils",
+      "Result": "41.50"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "41.90"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "7.50"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "8.60"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "207"
+    },
+    {
+      "Test Name": "Platelet Count",
+      "Result": "2270"
+    },
+    {
+      "Test Name": "Mean Platelet Volume",
+      "Result": "124"
+    }
+  ]
+}
