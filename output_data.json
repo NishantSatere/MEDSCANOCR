@@ -1,0 +1,85 @@
+{
+  "Name": "Ms. RAVIKA",
+  "Lab No": "391281434 Age 31 Years",
+  "Age": "31",
+  "Gender": "Female",
+  "Collected": "2/12/2022 10:27-00AM Reported 2itz2022 4:17-02M",
+  "Reported": "2itz2022 4:17-02M",
+  "Report Status": "Final",
+  "Collected at": "MR. DEEPAK PAINULY -FPSC CANAL ROAD Processed at: Dr. Lal PathLabs Lid",
+  "Processed at": "Dr. Lal PathLabs Lid",
+  "Test Results": [
+    {
+      "Test Name": "Hemoglobin",
+      "Result": "1250"
+    },
+    {
+      "Test Name": "Packed Cell Volume (PCV)",
+      "Result": "3730"
+    },
+    {
+      "Test Name": "REC Count",
+      "Result": "420"
+    },
+    {
+      "Test Name": "meV",
+      "Result": "3880"
+    },
+    {
+      "Test Name": "NCH",
+      "Result": "2080"
+    },
+    {
+      "Test Name": "Red Call Distibution Width (ROW)",
+      "Result": "1450"
+    },
+    {
+      "Test Name": "Total Leukocyte Count (TLC)",
+      "Result": "3"
+    },
+    {
+      "Test Name": "Segmented Neutrophils",
+      "Result": "40.30"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "4720"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "6.00"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "520"
+    },
+    {
+      "Test Name": "Basophis",
+      "Result": "1.30"
+    },
+    {
+      "Test Name": "Lymphocytes",
+      "Result": "1.80"
+    },
+    {
+      "Test Name": "Monocytes",
+      "Result": "023"
+    },
+    {
+      "Test Name": "Eosinophils",
+      "Result": "020"
+    },
+    {
+      "Test Name": "Basophis",
+      "Result": "0.05"
+    },
+    {
+      "Test Name": "Platelet Count",
+      "Result": "285"
+    },
+    {
+      "Test Name": "Mean Platelet Volume",
+      "Result": "98"
+    }
+  ]
+}
