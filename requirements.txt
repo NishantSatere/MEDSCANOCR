@@ -13,3 +13,4 @@ fastapi
 re
 json
 pytesseract
+>>>>>>> a4f3552df95261ed1259fd4ff481ff2d77ec26ce
