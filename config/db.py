@@ -1,7 +1,7 @@
 import pymongo
 from pymongo import MongoClient
 
-MONGO_URI = "mongodb+srv://<username>:<password>@firstproject.wami2av.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://nishant-satere:nishant-satere-2810@firstproject.wami2av.mongodb.net/?retryWrites=true&w=majority"
 
 try:
     # Attempt to establish a connection to the MongoDB database
