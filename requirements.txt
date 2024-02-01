@@ -53,6 +53,10 @@ fastapi
 re
 json
 pytesseract
+<<<<<<< HEAD
 opencv-python
 numpy
 >>>>>>> b6e218f56b3814949e27d97d5ae9630c76312d4c
+=======
+>>>>>>> a4f3552df95261ed1259fd4ff481ff2d77ec26ce
+>>>>>>> 232b98d4baf969d3cd19ede95feb134e12fde8e3
