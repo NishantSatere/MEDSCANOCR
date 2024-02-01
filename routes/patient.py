@@ -25,7 +25,7 @@ db = conn.patient
 
 router = APIRouter()
 
-db = conn.patient
+# db = conn.patient
 
 
 

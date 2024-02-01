@@ -9,10 +9,20 @@ from pymongo import MongoClient
 import time
 import io
 from PIL import Image
-
+import requests
 
 from streamlit_option_menu import option_menu
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
+def fetch_patient_details(test_name):
+    url = f" http://127.0.0.1:8000/allpatients/{test_name}"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        st.error(f"Error fetching data: {response.status_code} - {response.text}")
+
 
 # Define hardcoded credentials (replace with a secure authentication system in a real app)
 correct_username = "user123"
@@ -192,9 +202,25 @@ elif selected == "Med-BOT":
     st.write("# Med-Bot")
 st.write("## Ask your medical  questions here!")
 
-st.title("")
-client = OpenAI(api_key=st.secrets["OPEN_AI_API_KEY"])
+from openai import OpenAI
+import streamlit as st
 
+# st.title("ChatGPT-like clone")/
+st.title("Patient Test Details")
+    
+    # Add a text input for the test name
+test_name = st.text_input("Enter Test Name:")
+    
+    # Add a button to trigger the GET request
+if st.button("Fetch Test Details"):
+    if test_name:
+            # Call the function to fetch patient details
+        result = fetch_patient_details(test_name)
+        st.json(result)
+    else:
+        st.warning("Please enter a test name.")
+
+client = OpenAI(api_key=st.secrets["OPEN_AI_API_KEY"])
 
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
@@ -205,6 +231,8 @@ if "messages" not in st.session_state:
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
+
+    
 
 if prompt := st.chat_input("What is up?"):
     st.session_state.messages.append({"role": "user", "content": prompt})
