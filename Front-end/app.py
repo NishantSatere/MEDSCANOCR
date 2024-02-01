@@ -1,6 +1,6 @@
 import streamlit as st
 from openai import OpenAI
-import pickle
+# import pickle
 from my_functions import increase_font_size, extract_test_results
 import pytesseract
 import cv2
