@@ -1,6 +1,6 @@
 import streamlit as st
 from openai import OpenAI
-# import pickle
+import pickle
 from my_functions import increase_font_size, extract_test_results
 import pytesseract
 import cv2
@@ -12,6 +12,7 @@ from PIL import Image
 
 
 from streamlit_option_menu import option_menu
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Define hardcoded credentials (replace with a secure authentication system in a real app)
 correct_username = "user123"
@@ -222,6 +223,6 @@ if prompt := st.chat_input("What is up?"):
             stream=True,
         ):
             full_response += (response.choices[0].delta.content or "")
-            message_placeholder.markdown(full_response + "")
+            message_placeholder.markdown(full_response + "▌")
         message_placeholder.markdown(full_response)
     st.session_state.messages.append({"role": "assistant", "content": full_response})
