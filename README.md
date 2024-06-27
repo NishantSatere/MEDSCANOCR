@@ -1,7 +1,3 @@
-Here's a polished version of your README for the TESC Hackathon repository:
-
----
-
 # Print Hello Hackathon Team
 
 Welcome to the repository of Team Print Hello for the TESC Hackathon!
@@ -28,7 +24,10 @@ Our project aims to streamline the workflow for medical professionals by impleme
 - **Benefit:** Enhances user interaction and provides easy access to necessary information.
 
 ### ScrrenShots
-
+Bot.png
+Contact.png
+Dashboard.png
+Data.png
 
 ## Hackathon Details
 - **Event:** TESC Hackathon
