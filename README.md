@@ -1,16 +1,5 @@
 # Print Hello Hackathon Team
 
-Welcome to the repository of Team Print Hello for the TESC Hackathon!
-
-## Team Members
-- Nishant Satere
-- Nitesh Rathod
-- Muzammil Ansari
-- Devang Mestry
-
-## About Us
-We are a team of four enthusiastic individuals participating in the TESC Hackathon. Our team focuses on the domain of Artificial Intelligence and Machine Learning (AI/ML). With a passion for innovation and problem-solving, we are excited to collaborate and create impactful projects.
-
 ## Project Description
 Our project aims to streamline the workflow for medical professionals by implementing Optical Character Recognition (OCR) and a Language Learning Model (LLM) chatbot.
 
@@ -23,11 +12,25 @@ Our project aims to streamline the workflow for medical professionals by impleme
 - **Functionality:** The chatbot interacts with PDF documents and extracts relevant data from the database using a vector database.
 - **Benefit:** Enhances user interaction and provides easy access to necessary information.
 
+
 ### ScrrenShots
-Bot.png
-Contact.png
-Dashboard.png
-Data.png
+![Dashboard](/Dashboard.png)
+
+![Bot](/Bot.png)
+
+![Contact](/Contact.png)
+
+![DataFormat](/Data.png)
+
+
+## Team Members
+- Nishant Satere
+- Nitesh Rathod
+- Muzammil Ansari
+- Devang Mestry
+
+## About Us
+We are a team of four enthusiastic individuals participating in the TESC Hackathon. Our team focuses on the domain of Artificial Intelligence and Machine Learning (AI/ML). With a passion for innovation and problem-solving, we are excited to collaborate and create impactful projects.
 
 ## Hackathon Details
 - **Event:** TESC Hackathon
