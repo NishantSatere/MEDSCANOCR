@@ -13,7 +13,9 @@ Our project aims to streamline the workflow for medical professionals by impleme
 - **Benefit:** Enhances user interaction and provides easy access to necessary information.
 
 
-### ScrrenShots
+### Screenshots
+Dashboard
+
 ![Dashboard](/Dashboard.png)
 
 ![Bot](/Bot.png)
