@@ -14,7 +14,6 @@ Our project aims to streamline the workflow for medical professionals by impleme
 
 
 ### Screenshots
-Dashboard
 
 ![Dashboard](/Dashboard.png)
 
